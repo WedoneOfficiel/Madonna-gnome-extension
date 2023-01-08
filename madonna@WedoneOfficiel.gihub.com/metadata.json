@@ -1,0 +1,16 @@
+{
+    "name" : "Madonna",
+    "description" : "Affiche : Madonna the queen",
+    "shell-version": [
+    "3.34",
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+    "url" : "https://github.com/WedoneOfficiel",
+    "uuid" : "madonna@WedoneOfficiel.gihub.com",
+    "version" : 1.0
+}
