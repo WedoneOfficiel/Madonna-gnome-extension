@@ -1,5 +1,6 @@
 # Madonna gnome extension
-Une extension gnome qui affiche "Madonna the queen".
+Une extension gnome qui affiche "Madonna the queen"
+
  ![alt text](https://github.com/WedoneOfficiel/Madonna-gnome-extension/blob/e66e264515af8c61f9941c2703cf64be8a55576b/demo.png) 
 
 # Mode d'emploi : Comment installer ou désinstaller l'extension ?
