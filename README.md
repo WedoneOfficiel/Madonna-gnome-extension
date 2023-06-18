@@ -18,8 +18,8 @@ A ce jour, cette extension est compatible, avec les version suivantes de Gnome :
 - 44
 
 # Nouveautés de chaques version
-### Version 1.0
+### Version 1.0 :
 - Affichage de "Madonna the Queen"
 
-### Version 1.1
+### Version 1.1 :
 - Compatibilité avec la version 44 de Gnome ajouté
