@@ -1,3 +1,6 @@
+# Cette extension n'et plus supportée. Elle existait uniquement à des fins de test.
+Dernière version compatible de Gnome : 44
+
 # Madonna gnome extension
 Une extension gnome qui affiche "Madonna the queen"
 
